@@ -80,7 +80,7 @@ const Contact = () => {
             variants={iconVariants(2)}
             initial="initial"
             animate="animate"
-        href="https://www.tiktok.com/@kikinotavailable?is_from_webapp=1&sender_device=pc" target='_blank'>
+        href="mailto:rochan.130904@gmail.com" target='_blank'>
         <MdEmail className='hover:scale-150'/>
         </motion.a>
         
